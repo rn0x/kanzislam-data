@@ -1,0 +1,115 @@
+{
+    "manifest_version": "0.0.1",
+    "data": [
+        {
+            "file": "adhkar.json",
+            "version": "0.0.1",
+            "repo_location": "data/json-min"
+        },
+        {
+            "file": "albitaqat.json",
+            "version": "0.0.1",
+            "repo_location": "data/json-min"
+        },
+        {
+            "file": "ayat.json",
+            "version": "0.0.1",
+            "repo_location": "data/json-min"
+        },
+        {
+            "file": "fatwas.json",
+            "version": "0.0.1",
+            "repo_location": "data/json-min"
+        },
+        {
+            "file": "hisnmuslim.json",
+            "version": "0.0.1",
+            "repo_location": "data/json-min"
+        },
+        {
+            "file": "history.json",
+            "version": "0.0.1",
+            "repo_location": "data/json-min"
+        },
+        {
+            "file": "mp3quran.json",
+            "version": "0.0.1",
+            "repo_location": "data/json-min"
+        },
+        {
+            "file": "Names_Of_Allah.json",
+            "version": "0.0.1",
+            "repo_location": "data/json-min"
+        },
+        {
+            "file": "quran_info.json",
+            "version": "0.0.1",
+            "repo_location": "data/json-min"
+        },
+        {
+            "file": "radio.json",
+            "version": "0.0.1",
+            "repo_location": "data/json-min"
+        },
+        {
+            "file": "stopWords.json",
+            "version": "0.0.1",
+            "repo_location": "data/json-min"
+        },
+        {
+            "file": "surah.json",
+            "version": "0.0.1",
+            "repo_location": "data/json-min"
+        },
+        {
+            "file": "tafseerMouaser.json",
+            "version": "0.0.1",
+            "repo_location": "data/json-min"
+        },
+        {
+            "file": "baghawy.json",
+            "version": "0.0.1",
+            "repo_location": "data/json-min/tafsir"
+        },
+        {
+            "file": "eerab.json",
+            "version": "0.0.1",
+            "repo_location": "data/json-min/tafsir"
+        },
+        {
+            "file": "katheer.json",
+            "version": "0.0.1",
+            "repo_location": "data/json-min/tafsir"
+        },
+        {
+            "file": "qortobi.json",
+            "version": "0.0.1",
+            "repo_location": "data/json-min/tafsir"
+        },
+        {
+            "file": "saadi.json",
+            "version": "0.0.1",
+            "repo_location": "data/json-min/tafsir"
+        },
+        {
+            "file": "tabary.json",
+            "version": "0.0.1",
+            "repo_location": "data/json-min/tafsir"
+        },
+        {
+            "file": "tafsir_name.json",
+            "version": "0.0.1",
+            "repo_location": "data/json-min/tafsir"
+        },
+        {
+            "file": "tanweer.json",
+            "version": "0.0.1",
+            "repo_location": "data/json-min/tafsir"
+        },
+        {
+            "file": "waseet.json",
+            "version": "0.0.1",
+            "repo_location": "data/json-min/tafsir"
+        }
+    ]
+}
