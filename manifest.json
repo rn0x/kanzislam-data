@@ -1,115 +1,176 @@
 {
-    "manifest_version": "0.0.1",
-    "data": [
+    "Name": "kanzislam-data",
+    "Description": "المحتوى المستخدم في منصة كنز الإسلام",
+    "Repo": "https://github.com/kanzislam/kanzislam-data",
+    "Version": "1.0",
+    "Files": [
         {
-            "file": "adhkar.json",
-            "version": "0.0.1",
-            "repo_location": "data/json-min"
+            "Id": 1,
+            "Description": "قاعدة بيانات اذكار",
+            "FileName": "adhkar.json",
+            "FilePath": "data/json/adhkar.json",
+            "Type": "json",
+            "Version": "0.0.1"
         },
         {
-            "file": "albitaqat.json",
-            "version": "0.0.1",
-            "repo_location": "data/json-min"
+            "Id": 2,
+            "Description": "قاعدة بيانات بطاقات القرآن الكريم - متون",
+            "FileName": "albitaqat.json",
+            "FilePath": "data/json/albitaqat.json",
+            "Type": "json",
+            "Version": "0.0.1"
         },
         {
-            "file": "ayat.json",
-            "version": "0.0.1",
-            "repo_location": "data/json-min"
+            "Id": 3,
+            "Description": "قاعدة بيانات لـ سور القرآن الكريم - آيات",
+            "FileName": "ayat.json",
+            "FilePath": "data/json/ayat.json",
+            "Type": "json",
+            "Version": "0.0.1"
         },
         {
-            "file": "fatwas.json",
-            "version": "0.0.1",
-            "repo_location": "data/json-min"
+            "Id": 4,
+            "Description": "قاعدة بيانات فتاوى الشيخ ابن باز رحمه الله",
+            "FileName": "fatwas.json",
+            "FilePath": "data/json/fatwas.json",
+            "Type": "json",
+            "Version": "0.0.1"
         },
         {
-            "file": "hisnmuslim.json",
-            "version": "0.0.1",
-            "repo_location": "data/json-min"
+            "Id": 5,
+            "Description": "قاعدة بيانات حصن المسلم - من اذكار الكتاب والسنة",
+            "FileName": "hisnmuslim.json",
+            "FilePath": "data/json/hisnmuslim.json",
+            "Type": "json",
+            "Version": "0.0.1"
         },
         {
-            "file": "history.json",
-            "version": "0.0.1",
-            "repo_location": "data/json-min"
+            "Id": 6,
+            "Description": "قاعدة بيانات التاريخ الإسلامي",
+            "FileName": "history.json",
+            "FilePath": "data/json/history.json",
+            "Type": "json",
+            "Version": "0.0.1"
         },
         {
-            "file": "mp3quran.json",
-            "version": "0.0.1",
-            "repo_location": "data/json-min"
+            "Id": 7,
+            "Description": "قاعدة بيانات تحتوي على 158 قارئ للقرآن - مع بيانات وروابط الملفات الصوتية",
+            "FileName": "mp3quran.json",
+            "FilePath": "data/json/mp3quran.json",
+            "Type": "json",
+            "Version": "0.0.1"
         },
         {
-            "file": "Names_Of_Allah.json",
-            "version": "0.0.1",
-            "repo_location": "data/json-min"
+            "Id": 8,
+            "Description": "قاعدة بيانات أسماء الله",
+            "FileName": "Names_Of_Allah.json",
+            "FilePath": "data/json/Names_Of_Allah.json",
+            "Type": "json",
+            "Version": "0.0.1"
         },
         {
-            "file": "quran_info.json",
-            "version": "0.0.1",
-            "repo_location": "data/json-min"
+            "Id": 9,
+            "Description": "قاعدة بيانات معلومات القرآن - مثل اسم السورة ورقمها وعدد كلماتها الخ...",
+            "FileName": "quran_info.json",
+            "FilePath": "data/json/quran_info.json",
+            "Type": "json",
+            "Version": "0.0.1"
         },
         {
-            "file": "radio.json",
-            "version": "0.0.1",
-            "repo_location": "data/json-min"
+            "Id": 10,
+            "Description": "قاعدة بيانات إذاعات الراديو - بث مباشر",
+            "FileName": "radio.json",
+            "FilePath": "data/json/radio.json",
+            "Type": "json",
+            "Version": "0.0.1"
         },
         {
-            "file": "stopWords.json",
-            "version": "0.0.1",
-            "repo_location": "data/json-min"
+            "Id": 11,
+            "Description": "قاعدة بيانات الكلمات المحظورة",
+            "FileName": "stopWords.json",
+            "FilePath": "data/json/stopWords.json",
+            "Type": "json",
+            "Version": "0.0.1"
         },
         {
-            "file": "surah.json",
-            "version": "0.0.1",
-            "repo_location": "data/json-min"
+            "Id": 12,
+            "Description": "قاعدة بيانات سور القرآن الكريم",
+            "FileName": "surah.json",
+            "FilePath": "data/json/surah.json",
+            "Type": "json",
+            "Version": "0.0.1"
         },
         {
-            "file": "tafseerMouaser.json",
-            "version": "0.0.1",
-            "repo_location": "data/json-min"
+            "Id": 13,
+            "Description": "قاعدة بيانات التفسير الميسر",
+            "FileName": "tafseerMouaser.json",
+            "FilePath": "data/json/tafseerMouaser.json",
+            "Type": "json",
+            "Version": "0.0.1"
         },
         {
-            "file": "baghawy.json",
-            "version": "0.0.1",
-            "repo_location": "data/json-min/tafsir"
+            "Id": 14,
+            "Description": "قاعدة بيانات تفسير البغوي",
+            "FileName": "baghawy.json",
+            "FilePath": "data/json/tafsir/baghawy.json",
+            "Type": "json",
+            "Version": "0.0.1"
         },
         {
-            "file": "eerab.json",
-            "version": "0.0.1",
-            "repo_location": "data/json-min/tafsir"
+            "Id": 15,
+            "Description": "قاعدة بيانات تفسير إعراب القرآن لـ الدعاس",
+            "FileName": "eerab.json",
+            "FilePath": "data/json/tafsir/eerab.json",
+            "Type": "json",
+            "Version": "0.0.1"
         },
         {
-            "file": "katheer.json",
-            "version": "0.0.1",
-            "repo_location": "data/json-min/tafsir"
+            "Id": 16,
+            "Description": "قاعدة بيانات تفسير القرطبي",
+            "FileName": "qortobi.json",
+            "FilePath": "data/json/tafsir/qortobi.json",
+            "Type": "json",
+            "Version": "0.0.1"
         },
         {
-            "file": "qortobi.json",
-            "version": "0.0.1",
-            "repo_location": "data/json-min/tafsir"
+            "Id": 17,
+            "Description": "قاعدة بيانات تفسير السعدي",
+            "FileName": "saadi.json",
+            "FilePath": "data/json/tafsir/saadi.json",
+            "Type": "json",
+            "Version": "0.0.1"
         },
         {
-            "file": "saadi.json",
-            "version": "0.0.1",
-            "repo_location": "data/json-min/tafsir"
+            "Id": 18,
+            "Description": "قاعدة بيانات تفسير الطبري",
+            "FileName": "tabary.json",
+            "FilePath": "data/json/tafsir/tabary.json",
+            "Type": "json",
+            "Version": "0.0.1"
         },
         {
-            "file": "tabary.json",
-            "version": "0.0.1",
-            "repo_location": "data/json-min/tafsir"
+            "Id": 19,
+            "Description": "قاعدة بيانات أسماء التفاسير",
+            "FileName": "tafsir_name.json",
+            "FilePath": "data/json/tafsir/tafsir_name.json",
+            "Type": "json",
+            "Version": "0.0.1"
         },
         {
-            "file": "tafsir_name.json",
-            "version": "0.0.1",
-            "repo_location": "data/json-min/tafsir"
+            "Id": 20,
+            "Description": "قاعدة بيانات تفسير ابن عاشور",
+            "FileName": "tanweer.json",
+            "FilePath": "data/json/tafsir/tanweer.json",
+            "Type": "json",
+            "Version": "0.0.1"
         },
         {
-            "file": "tanweer.json",
-            "version": "0.0.1",
-            "repo_location": "data/json-min/tafsir"
-        },
-        {
-            "file": "waseet.json",
-            "version": "0.0.1",
-            "repo_location": "data/json-min/tafsir"
+            "Id": 21,
+            "Description": "قاعدة بيانات تفسير الوسيط لـ الطنطاوي",
+            "FileName": "waseet.json",
+            "FilePath": "data/json/tafsir/waseet.json",
+            "Type": "json",
+            "Version": "0.0.1"
         }
     ]
 }
