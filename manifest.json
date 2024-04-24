@@ -10,7 +10,7 @@
             "FileName": "adhkar.json",
             "FilePath": "data/json/adhkar.json",
             "Type": "json",
-            "Version": "0.0.1"
+            "Version": "0.1"
         },
         {
             "Id": 2,
@@ -18,7 +18,7 @@
             "FileName": "albitaqat.json",
             "FilePath": "data/json/albitaqat.json",
             "Type": "json",
-            "Version": "0.0.1"
+            "Version": "0.1"
         },
         {
             "Id": 3,
@@ -26,7 +26,7 @@
             "FileName": "ayat.json",
             "FilePath": "data/json/ayat.json",
             "Type": "json",
-            "Version": "0.0.1"
+            "Version": "0.1"
         },
         {
             "Id": 4,
@@ -34,7 +34,7 @@
             "FileName": "fatwas.json",
             "FilePath": "data/json/fatwas.json",
             "Type": "json",
-            "Version": "0.0.1"
+            "Version": "0.1"
         },
         {
             "Id": 5,
@@ -42,7 +42,7 @@
             "FileName": "hisnmuslim.json",
             "FilePath": "data/json/hisnmuslim.json",
             "Type": "json",
-            "Version": "0.0.1"
+            "Version": "0.1"
         },
         {
             "Id": 6,
@@ -50,7 +50,7 @@
             "FileName": "history.json",
             "FilePath": "data/json/history.json",
             "Type": "json",
-            "Version": "0.0.1"
+            "Version": "0.1"
         },
         {
             "Id": 7,
@@ -58,7 +58,7 @@
             "FileName": "mp3quran.json",
             "FilePath": "data/json/mp3quran.json",
             "Type": "json",
-            "Version": "0.0.1"
+            "Version": "0.1"
         },
         {
             "Id": 8,
@@ -66,7 +66,7 @@
             "FileName": "Names_Of_Allah.json",
             "FilePath": "data/json/Names_Of_Allah.json",
             "Type": "json",
-            "Version": "0.0.1"
+            "Version": "0.1"
         },
         {
             "Id": 9,
@@ -74,7 +74,7 @@
             "FileName": "quran_info.json",
             "FilePath": "data/json/quran_info.json",
             "Type": "json",
-            "Version": "0.0.1"
+            "Version": "0.1"
         },
         {
             "Id": 10,
@@ -82,7 +82,7 @@
             "FileName": "radio.json",
             "FilePath": "data/json/radio.json",
             "Type": "json",
-            "Version": "0.0.1"
+            "Version": "0.1"
         },
         {
             "Id": 11,
@@ -90,7 +90,7 @@
             "FileName": "stopWords.json",
             "FilePath": "data/json/stopWords.json",
             "Type": "json",
-            "Version": "0.0.1"
+            "Version": "0.1"
         },
         {
             "Id": 12,
@@ -98,7 +98,7 @@
             "FileName": "surah.json",
             "FilePath": "data/json/surah.json",
             "Type": "json",
-            "Version": "0.0.1"
+            "Version": "0.1"
         },
         {
             "Id": 13,
@@ -106,7 +106,7 @@
             "FileName": "tafseerMouaser.json",
             "FilePath": "data/json/tafseerMouaser.json",
             "Type": "json",
-            "Version": "0.0.1"
+            "Version": "0.1"
         },
         {
             "Id": 14,
@@ -114,7 +114,7 @@
             "FileName": "baghawy.json",
             "FilePath": "data/json/tafsir/baghawy.json",
             "Type": "json",
-            "Version": "0.0.1"
+            "Version": "0.1"
         },
         {
             "Id": 15,
@@ -122,7 +122,7 @@
             "FileName": "eerab.json",
             "FilePath": "data/json/tafsir/eerab.json",
             "Type": "json",
-            "Version": "0.0.1"
+            "Version": "0.1"
         },
         {
             "Id": 16,
@@ -130,7 +130,7 @@
             "FileName": "qortobi.json",
             "FilePath": "data/json/tafsir/qortobi.json",
             "Type": "json",
-            "Version": "0.0.1"
+            "Version": "0.1"
         },
         {
             "Id": 17,
@@ -138,7 +138,7 @@
             "FileName": "saadi.json",
             "FilePath": "data/json/tafsir/saadi.json",
             "Type": "json",
-            "Version": "0.0.1"
+            "Version": "0.1"
         },
         {
             "Id": 18,
@@ -146,7 +146,7 @@
             "FileName": "tabary.json",
             "FilePath": "data/json/tafsir/tabary.json",
             "Type": "json",
-            "Version": "0.0.1"
+            "Version": "0.1"
         },
         {
             "Id": 19,
@@ -154,7 +154,7 @@
             "FileName": "tafsir_name.json",
             "FilePath": "data/json/tafsir/tafsir_name.json",
             "Type": "json",
-            "Version": "0.0.1"
+            "Version": "0.1"
         },
         {
             "Id": 20,
@@ -162,7 +162,7 @@
             "FileName": "tanweer.json",
             "FilePath": "data/json/tafsir/tanweer.json",
             "Type": "json",
-            "Version": "0.0.1"
+            "Version": "0.1"
         },
         {
             "Id": 21,
@@ -170,7 +170,7 @@
             "FileName": "waseet.json",
             "FilePath": "data/json/tafsir/waseet.json",
             "Type": "json",
-            "Version": "0.0.1"
+            "Version": "0.1"
         }
     ]
 }
