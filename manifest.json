@@ -8,7 +8,7 @@
             "Id": 1,
             "Description": "قاعدة بيانات اذكار",
             "FileName": "adhkar.json",
-            "FilePath": "data/json/adhkar.json",
+            "FilePath": "data/json",
             "Type": "json",
             "Version": "0.1"
         },
@@ -16,7 +16,7 @@
             "Id": 2,
             "Description": "قاعدة بيانات بطاقات القرآن الكريم - متون",
             "FileName": "albitaqat.json",
-            "FilePath": "data/json/albitaqat.json",
+            "FilePath": "data/json",
             "Type": "json",
             "Version": "0.1"
         },
@@ -24,7 +24,7 @@
             "Id": 3,
             "Description": "قاعدة بيانات لـ سور القرآن الكريم - آيات",
             "FileName": "ayat.json",
-            "FilePath": "data/json/ayat.json",
+            "FilePath": "data/json",
             "Type": "json",
             "Version": "0.1"
         },
@@ -32,7 +32,7 @@
             "Id": 4,
             "Description": "قاعدة بيانات فتاوى الشيخ ابن باز رحمه الله",
             "FileName": "fatwas.json",
-            "FilePath": "data/json/fatwas.json",
+            "FilePath": "data/json",
             "Type": "json",
             "Version": "0.1"
         },
@@ -40,7 +40,7 @@
             "Id": 5,
             "Description": "قاعدة بيانات حصن المسلم - من اذكار الكتاب والسنة",
             "FileName": "hisnmuslim.json",
-            "FilePath": "data/json/hisnmuslim.json",
+            "FilePath": "data/json",
             "Type": "json",
             "Version": "0.1"
         },
@@ -48,7 +48,7 @@
             "Id": 6,
             "Description": "قاعدة بيانات التاريخ الإسلامي",
             "FileName": "history.json",
-            "FilePath": "data/json/history.json",
+            "FilePath": "data/json",
             "Type": "json",
             "Version": "0.1"
         },
@@ -56,7 +56,7 @@
             "Id": 7,
             "Description": "قاعدة بيانات تحتوي على 158 قارئ للقرآن - مع بيانات وروابط الملفات الصوتية",
             "FileName": "mp3quran.json",
-            "FilePath": "data/json/mp3quran.json",
+            "FilePath": "data/json",
             "Type": "json",
             "Version": "0.1"
         },
@@ -64,7 +64,7 @@
             "Id": 8,
             "Description": "قاعدة بيانات أسماء الله",
             "FileName": "Names_Of_Allah.json",
-            "FilePath": "data/json/Names_Of_Allah.json",
+            "FilePath": "data/json",
             "Type": "json",
             "Version": "0.1"
         },
@@ -72,7 +72,7 @@
             "Id": 9,
             "Description": "قاعدة بيانات معلومات القرآن - مثل اسم السورة ورقمها وعدد كلماتها الخ...",
             "FileName": "quran_info.json",
-            "FilePath": "data/json/quran_info.json",
+            "FilePath": "data/json",
             "Type": "json",
             "Version": "0.1"
         },
@@ -80,7 +80,7 @@
             "Id": 10,
             "Description": "قاعدة بيانات إذاعات الراديو - بث مباشر",
             "FileName": "radio.json",
-            "FilePath": "data/json/radio.json",
+            "FilePath": "data/json",
             "Type": "json",
             "Version": "0.1"
         },
@@ -88,7 +88,7 @@
             "Id": 11,
             "Description": "قاعدة بيانات الكلمات المحظورة",
             "FileName": "stopWords.json",
-            "FilePath": "data/json/stopWords.json",
+            "FilePath": "data/json",
             "Type": "json",
             "Version": "0.1"
         },
@@ -96,7 +96,7 @@
             "Id": 12,
             "Description": "قاعدة بيانات سور القرآن الكريم",
             "FileName": "surah.json",
-            "FilePath": "data/json/surah.json",
+            "FilePath": "data/json",
             "Type": "json",
             "Version": "0.1"
         },
@@ -104,7 +104,7 @@
             "Id": 13,
             "Description": "قاعدة بيانات التفسير الميسر",
             "FileName": "tafseerMouaser.json",
-            "FilePath": "data/json/tafseerMouaser.json",
+            "FilePath": "data/json",
             "Type": "json",
             "Version": "0.1"
         },
@@ -112,7 +112,7 @@
             "Id": 14,
             "Description": "قاعدة بيانات تفسير البغوي",
             "FileName": "baghawy.json",
-            "FilePath": "data/json/tafsir/baghawy.json",
+            "FilePath": "data/json/tafsir",
             "Type": "json",
             "Version": "0.1"
         },
@@ -120,7 +120,7 @@
             "Id": 15,
             "Description": "قاعدة بيانات تفسير إعراب القرآن لـ الدعاس",
             "FileName": "eerab.json",
-            "FilePath": "data/json/tafsir/eerab.json",
+            "FilePath": "data/json/tafsir",
             "Type": "json",
             "Version": "0.1"
         },
@@ -128,7 +128,7 @@
             "Id": 16,
             "Description": "قاعدة بيانات تفسير القرطبي",
             "FileName": "qortobi.json",
-            "FilePath": "data/json/tafsir/qortobi.json",
+            "FilePath": "data/json/tafsir",
             "Type": "json",
             "Version": "0.1"
         },
@@ -136,7 +136,7 @@
             "Id": 17,
             "Description": "قاعدة بيانات تفسير السعدي",
             "FileName": "saadi.json",
-            "FilePath": "data/json/tafsir/saadi.json",
+            "FilePath": "data/json/tafsir",
             "Type": "json",
             "Version": "0.1"
         },
@@ -144,7 +144,7 @@
             "Id": 18,
             "Description": "قاعدة بيانات تفسير الطبري",
             "FileName": "tabary.json",
-            "FilePath": "data/json/tafsir/tabary.json",
+            "FilePath": "data/json/tafsir",
             "Type": "json",
             "Version": "0.1"
         },
@@ -152,7 +152,7 @@
             "Id": 19,
             "Description": "قاعدة بيانات أسماء التفاسير",
             "FileName": "tafsir_name.json",
-            "FilePath": "data/json/tafsir/tafsir_name.json",
+            "FilePath": "data/json/tafsir",
             "Type": "json",
             "Version": "0.1"
         },
@@ -160,7 +160,7 @@
             "Id": 20,
             "Description": "قاعدة بيانات تفسير ابن عاشور",
             "FileName": "tanweer.json",
-            "FilePath": "data/json/tafsir/tanweer.json",
+            "FilePath": "data/json/tafsir",
             "Type": "json",
             "Version": "0.1"
         },
@@ -168,7 +168,7 @@
             "Id": 21,
             "Description": "قاعدة بيانات تفسير الوسيط لـ الطنطاوي",
             "FileName": "waseet.json",
-            "FilePath": "data/json/tafsir/waseet.json",
+            "FilePath": "data/json/tafsir",
             "Type": "json",
             "Version": "0.1"
         }
