@@ -2,7 +2,7 @@
     "morning": {
         "id": 1,
         "category": "أذكار الصباح",
-        "icon": "icon/sun.png",
+        "icon": "icon/sun.webp",
         "array": [
             {
                 "id": 1,
@@ -257,7 +257,7 @@
     "evening": {
         "id": 2,
         "category": "أذكار المساء",
-        "icon": "icon/moon.png",
+        "icon": "icon/moon.webp",
         "array": [
             {
                 "id": 1,
@@ -504,7 +504,7 @@
     "sleeping": {
         "id": 3,
         "category": "أذكار النوم",
-        "icon": "icon/sleeping.png",
+        "icon": "icon/sleeping.webp",
         "array": [
             {
                 "id": 1,
@@ -615,7 +615,7 @@
     "food": {
         "id": 4,
         "category": "أذكار الطعام",
-        "icon": "icon/food.png",
+        "icon": "icon/food.webp",
         "array": [
             {
                 "id": 1,
@@ -662,7 +662,7 @@
     "prayer": {
         "id": 5,
         "category": "أذكار بعد الصلاة",
-        "icon": "icon/prayer.png",
+        "icon": "icon/prayer.webp",
         "array": [
             {
                 "id": 1,
@@ -733,7 +733,7 @@
     "tasbih": {
         "id": 6,
         "category": "تسابيح",
-        "icon": "icon/beads.png",
+        "icon": "icon/beads.webp",
         "array": [
             {
                 "id": 1,
