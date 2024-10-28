@@ -171,6 +171,14 @@
             "FilePath": "data/json/tafsir",
             "Type": "json",
             "Version": "0.1"
+        },
+        {
+            "Id": 22,
+            "Description": "قاعدة بيانات تفسير ابن كثير",
+            "FileName": "katheer.json",
+            "FilePath": "data/json/tafsir",
+            "Type": "json",
+            "Version": "0.1"
         }
     ]
 }
